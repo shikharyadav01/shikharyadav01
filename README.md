@@ -76,24 +76,19 @@
 ## 🚀 Featured Projects
 
 <p align="center">
+  <a href="https://github.com/shikharyadav01/Cognitive-Document-LLM-Aggregator">
+    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=shikharyadav01&repo=Cognitive-Document-LLM-Aggregator&theme=github_dark&hide_border=true" />
+  </a>
 
-<a href="https://github.com/shikharyadav01/Cognitive-Document-LLM-Aggregator" target="_blank">
-  <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=shikharyadav01&repo=Cognitive-Document-LLM-Aggregator&theme=github_dark&hide_border=true" />
-</a>
+  <a href="https://github.com/shikharyadav01/ExplorateDataAnalysisEDA">
+    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=shikharyadav01&repo=ExplorateDataAnalysisEDA&theme=github_dark&hide_border=true" />
+  </a>
 
-<a href="https://github.com/shikharyadav01/ExplorateDataAnalysisEDA" target="_blank">
-  <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=shikharyadav01&repo=ExplorateDataAnalysisEDA&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/shikharyadav01/Drowsiness_detection" target="_blank">
-  <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=shikharyadav01&repo=Drowsiness_detection&theme=github_dark&hide_border=true" />
-</a>
-
+  <a href="https://github.com/shikharyadav01/Drowsiness_detection">
+    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=shikharyadav01&repo=Drowsiness_detection&theme=github_dark&hide_border=true" />
+  </a>
 </p>
 
-<p align="center">
-  <i>Click any card to open the repository.</i>
-</p>
 
 
 ## 📊 GitHub Stats
