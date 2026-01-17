@@ -7,8 +7,20 @@
   <a href="https://www.linkedin.com/in/shikharyadavoxx/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Shikhar%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:shikharyadav0503@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shikharyadav0503%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" />
+ <a href="mailto:shikharyadav0503@gmail.com">
+  <img src="https://img.shields.io/badge/Email-shikharyadav0503%40gmail.com-0e9e4d?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+  <a href="https://leetcode.com/u/shikhar_yadav01/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-shikhar__yadav01-0e9e4d?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/shikharyadav0503" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-shikharyadav0503-0e9e4d?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/shikharyadav05" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-shikharyadav05-0e9e4d?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/__shikharyadav__/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-__shikharyadav__-0e9e4d?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -36,18 +48,17 @@
 
 ### Libraries / Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-0e9e4d?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-0e9e4d?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-0e9e4d?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-0e9e4d?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
 ### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,docker,vscode" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-0e9e4d?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-0e9e4d?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
 ### Databases
@@ -65,33 +76,31 @@
 ## 🚀 Featured Projects
 
 ### 1) Cognitive Document LLM
-**Problem:** Extracts information from documents (PDFs/images) and enables question-answering using an LLM pipeline.  
+**Problem:** Extract information from documents (PDFs/images) and enable question-answering using an LLM pipeline.  
 **Highlights:** document parsing → chunking → embeddings/vector search → LLM answers with sources.  
-**Tech:** Python, NLP, LLM, Vector DB, LangChain-style pipeline (optional).
+**Tech:** Python, NLP, LLM, Vector DB
 
 ### 2) End-to-End Data Analysis
-**Problem:** Turns raw data into actionable insights with cleaning, EDA, dashboards, and final report.  
+**Problem:** Turn raw data into actionable insights using cleaning, EDA, dashboards, and a final report.  
 **Highlights:** data cleaning → feature engineering → visualization → business insights.  
-**Tech:** Python, Pandas, NumPy, SQL, Power BI/Excel.
+**Tech:** Python, Pandas, NumPy, SQL, Power BI/Excel
 
 ### 3) Drowsiness Detection
-**Problem:** Detects driver drowsiness using computer vision to improve safety.  
-**Highlights:** eye-aspect ratio / facial landmarks → real-time alert system.  
-**Tech:** Python, OpenCV, DL/CV (as applicable).
-
-> When you share project GitHub links, I’ll convert each into a clean clickable section with badges + screenshots.
+**Problem:** Detect driver drowsiness using computer vision for safer driving.  
+**Highlights:** facial landmarks/eye-based detection → real-time alert system.  
+**Tech:** Python, OpenCV, Deep Learning / CV
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shikharyadav01&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shikharyadav01&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shikharyadav01&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shikharyadav01&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikharyadav01&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikharyadav01&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -113,12 +122,21 @@
 ## 🌐 Connect with me
 <p>
   <a href="https://github.com/shikharyadav01" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-shikharyadav01-111?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-shikharyadav01-0e9e4d?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/shikharyadavoxx/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Shikhar%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Shikhar%20Yadav-0e9e4d?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/shikhar_yadav01/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-shikhar__yadav01-0e9e4d?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/shikharyadav0503" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-shikharyadav0503-0e9e4d?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/shikharyadav05" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-shikharyadav05-0e9e4d?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/__shikharyadav__/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-__shikharyadav__-0e9e4d?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
-<!-- Add these when you send links:
-LeetCode | HackerRank | Kaggle | Instagram -->
