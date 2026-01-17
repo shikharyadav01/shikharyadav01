@@ -75,22 +75,26 @@
 
 ## 🚀 Featured Projects
 
-### 1) Cognitive Document LLM
-**Problem:** Extract information from documents (PDFs/images) and enable question-answering using an LLM pipeline.  
-**Highlights:** document parsing → chunking → embeddings/vector search → LLM answers with sources.  
-**Tech:** Python, NLP, LLM, Vector DB
+<p align="center">
 
-### 2) End-to-End Data Analysis
-**Problem:** Turn raw data into actionable insights using cleaning, EDA, dashboards, and a final report.  
-**Highlights:** data cleaning → feature engineering → visualization → business insights.  
-**Tech:** Python, Pandas, NumPy, SQL, Power BI/Excel
+<a href="https://github.com/shikharyadav01/Cognitive-Document-LLM-Aggregator" target="_blank">
+  <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=shikharyadav01&repo=Cognitive-Document-LLM-Aggregator&theme=github_dark&hide_border=true" />
+</a>
 
-### 3) Drowsiness Detection
-**Problem:** Detect driver drowsiness using computer vision for safer driving.  
-**Highlights:** facial landmarks/eye-based detection → real-time alert system.  
-**Tech:** Python, OpenCV, Deep Learning / CV
+<a href="https://github.com/shikharyadav01/ExplorateDataAnalysisEDA" target="_blank">
+  <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=shikharyadav01&repo=ExplorateDataAnalysisEDA&theme=github_dark&hide_border=true" />
+</a>
 
----
+<a href="https://github.com/shikharyadav01/Drowsiness_detection" target="_blank">
+  <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=shikharyadav01&repo=Drowsiness_detection&theme=github_dark&hide_border=true" />
+</a>
+
+</p>
+
+<p align="center">
+  <i>Click any card to open the repository.</i>
+</p>
+
 
 ## 📊 GitHub Stats
 
