@@ -73,22 +73,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/shikharyadav01/Cognitive-Document-LLM-Aggregator">
-    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=shikharyadav01&repo=Cognitive-Document-LLM-Aggregator&theme=github_dark&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/shikharyadav01/ExplorateDataAnalysisEDA">
-    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=shikharyadav01&repo=ExplorateDataAnalysisEDA&theme=github_dark&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/shikharyadav01/Drowsiness_detection">
-    <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=shikharyadav01&repo=Drowsiness_detection&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-
 
 
 ## 📊 GitHub Stats
@@ -104,38 +88,3 @@
 
 ---
 
-## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shikharyadav01&theme=matrix&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shikharyadav01/shikharyadav01/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-## 🌐 Connect with me
-<p>
-  <a href="https://github.com/shikharyadav01" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-shikharyadav01-0e9e4d?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/shikharyadavoxx/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Shikhar%20Yadav-0e9e4d?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/shikhar_yadav01/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-shikhar__yadav01-0e9e4d?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/shikharyadav0503" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-shikharyadav0503-0e9e4d?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/shikharyadav05" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-shikharyadav05-0e9e4d?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/__shikharyadav__/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-__shikharyadav__-0e9e4d?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
